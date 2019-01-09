@@ -23,7 +23,7 @@ public class UtilTest {
 
     @Test
     public void testAdd() {
-        System.out.println("add");
+        System.out.println("addition");
         Integer a = 15;
         Integer b = 15;
         Integer expResult = 30;
